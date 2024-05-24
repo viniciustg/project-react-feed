@@ -8,6 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# Print 
+# Project
+
+- This project is about a feed with posts and comments using html, css, js and react.
 
 ![image](https://github.com/viniciustg/project-react-feed/assets/50466526/9acdbeaa-f5bb-4371-9e78-107c6a269baf)
